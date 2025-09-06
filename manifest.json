@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Lean Window",
+  "version": "1.0",
+  "description": "Verandert het huidige venster in een 'lean window' zonder toolbar/adresbalk met één klik.",
+  "permissions": [
+    "tabs"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Maak Lean Window"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
