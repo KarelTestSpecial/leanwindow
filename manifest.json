@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Lean Window",
-  "version": "1.0",
-  "description": "Changes the current window into a 'lean window' without a toolbar/address bar with a single click.",
+  "name": "Slim Window Video Viewer",
+  "version": "2.0",
+  "description": "Watch videos while you work in a window without toolbar/address bar and that always stays on top.",
   "permissions": [
     "tabs"
   ],
