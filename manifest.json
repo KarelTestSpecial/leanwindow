@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Slim Window Video Viewer",
   "version": "2.0",
-  "description": "Watch videos while you work, in a window without tool/address bar that always stays on top.",
+  "description": "Watch videos while you work, in a window without tool/address bar, that always stays on top.",
   "permissions": [
     "tabs"
   ],
